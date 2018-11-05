@@ -179,9 +179,3 @@ function removeFavorite(tr) {
     };
     tr.appendChild(td);
 }
-
-
-
-
-
-

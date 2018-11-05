@@ -21,7 +21,7 @@ Deployed on google app engine with link https://shopify-wintergithub.appspot.com
 * [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3) 
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-* [AJAX]
+* AJAX
 
 ## Authors
 * Developed by Felix Xin Song Zhang
